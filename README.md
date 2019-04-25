@@ -1,2 +1,2 @@
 # DataChallenges
-Code for data challenge to practice/demonstrate data science skills.
+Code for data challenges to practice and demonstrate data science skills.
